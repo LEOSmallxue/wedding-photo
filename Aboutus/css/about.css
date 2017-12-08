@@ -1,0 +1,159 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#HomeHead {
+	
+	width: 1920px;
+	height: 200PX;
+	background-image:url(../img/背景花.jpg);
+}
+
+#HomeHeadMiddle {
+	height:40px;
+	margin-left: 360PX;
+	line-height: 40px;
+	font-size: 12px;
+	margin-top:12px;
+	color:#333333;
+}
+#Homeheadright{
+	
+}
+.bigbox{
+	width: 152px;
+	height: 100px;
+	float: left;
+	
+}
+.daohang{
+	font-size: 16px;
+	color:#333333;
+	text-align:center;
+	line-height: 81px;
+	display: inline-block;
+	width: 152px;
+	
+
+}
+#Homedaohang{
+	
+	width:928px;
+	margin-left: 360px;
+	height: 100px;
+	border-top: solid 1px black;
+	border-bottom: 6px solid black;
+	
+}
+.box{
+	width: 152px;
+	height: 16px;
+	
+	border-right: solid black 1px;
+}
+#HomeMiddle{
+	width: 100%;
+	height: 700PX;
+	position: relative;
+}
+#HMCamera{
+	position: absolute;
+	bottom: 68PX;
+	opacity: 0.3;
+	
+}
+#HomeSeriesbox{
+	width: 1106px;
+	height: 186px;
+	margin-left: 407px;
+}
+.HomeSeries{
+	width: 276px;
+	height:186px ;
+	position: relative;
+	float: left;
+	
+}
+.tuceng{
+	width: 276px;
+	height: 186px;
+	background-color: black;
+	opacity: 0.5;
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	background-image: url(../img/矩形-1-副本.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	color: white;
+	font-weight: 500;
+}
+.tuceng a{
+	margin-left: 105px;
+	line-height: 300px;
+}
+#aboutmiddle{
+	width: 1920px;
+	text-align: center;
+	padding: 0px;
+	margin-top: 72px;
+	margin-bottom: 42px;
+	height: 205px;
+	text-align: center;
+}
+#abtmidtxt{
+	width: 150px;
+    height: 70px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    top: -140px;
+    left: 888px;
+}
+#txt1{
+	font-size: 26px;
+	color: #33333;
+	font-weight: 500;
+}
+#txt2{
+	font-size: 16px;
+	font-weight: 700;
+	color: #666666;
+}
+#abtbtmtxt1{
+	width: 766px;
+	margin-left: 577px;
+	
+}
+p{
+	padding: 0px;
+	margin: 0px;
+	font-size: 14px;
+	color: #333333;
+	text-indent: 2em;
+}
+.abtbtmtu{
+	width: 246px;
+	float: left;
+	margin-left: 5px;
+	
+}
+.abtbtmtutxt{
+	background-image:url(../img/花纹-拷贝.jpg);background-repeat-x: none;
+	width: 120px;
+	height: 70px;
+	line-height: 70px;
+	text-align: center;
+	color: crimson;
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: 2px;
+	margin: 10px auto;
+}
+#abtbtm{
+	width: 1038px;
+	height: 280px;
+	margin-top: 120px;
+	margin-left: 441px;
+}
